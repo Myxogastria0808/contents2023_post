@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "contents2023-post"
+version = "0.1.0"
+description = ""
+authors = ["'Myxogastria0808' <r.rstudio.c@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tweepy = "^4.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
